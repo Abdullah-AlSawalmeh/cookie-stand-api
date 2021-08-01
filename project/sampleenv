@@ -1,0 +1,12 @@
+SECRET_KEY=sdxge4dhf4
+DEBUG=True
+
+ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0
+ALLOW_ALL_ORIGINS=True
+
+DATABASE_ENGINE=django.db.backends.postgresql
+DATABASE_NAME=vgjwcswe
+DATABASE_USER=vgjwcswe
+DATABASE_PASSWORD=IazwSjgF2MQcyeQt5S5sEog4nkQNY0Ce
+DATABASE_HOST=rogue.db.elephantsql.com
+DATABASE_PORT=5432
